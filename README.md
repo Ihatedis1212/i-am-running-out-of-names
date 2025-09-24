@@ -5,7 +5,7 @@
 </kbd>
 </p>
 
-<h1 align="center">nate-games</h1>
+<h1 align="center">Edgewood-Games</h1>
 <p align="center">The best unblocked games website. games, apps, proxies, and more!</p>
 
 > **Note**
@@ -20,11 +20,9 @@
 - Clean UI
 - Neon/Cyberpunk styled Homepage
 
-Website blocked? See [`links.md`](https://github.com/nate-games/nate-games.github.io/blob/main/links.md)
+All blocked? Check out [`deploying.md`](https://github.com/Ihatedis1212/i-am-running-out-of-names/blob/main/links.md)
 
-All blocked? Check out [`deploying.md`](https://github.com/nate-games/nate-games.github.io/blob/main/deploying.md)
-
-Offline? Check out [`offline.md`](https://github.com/nate-games/nate-games.github.io/blob/main/offline.md)
+Offline? Check out [`offline.md`](https://github.com/Ihatedis1212/i-am-running-out-of-names/blob/main/links.md)
 
 ### Contributing
 
